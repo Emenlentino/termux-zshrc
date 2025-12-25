@@ -90,8 +90,8 @@ Run it once and you’re ready to go.
 
 🧠 Author
 
-Emenelentino  
-GitHub: Emenelentino
+Emenlentino  
+GitHub: Emenlentino
 
 ---
 
